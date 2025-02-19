@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Abhay",
+    "email": "abhay@example.com",
+    "age": 22,
+    "city": "Mumbai",
+    "skills": ["Java", "Python", "SQL"]
+  },
+  {
+    "name": "Rahul",
+    "email": "rahul@example.com",
+    "age": 24,
+    "city": "Delhi",
+    "skills": ["JavaScript", "React", "Node.js"]
+  },
+  {
+    "name": "Sneha",
+    "email": "sneha@example.com",
+    "age": 23,
+    "city": "Bangalore",
+    "skills": ["C++", "Machine Learning", "Data Science"]
+  }
+]

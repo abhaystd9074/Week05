@@ -1,0 +1,7 @@
+{
+  "address": {
+    "city": "Mumbai",
+    "country": "India"
+  },
+  "skills": ["Java", "Python", "SQL"]
+}
